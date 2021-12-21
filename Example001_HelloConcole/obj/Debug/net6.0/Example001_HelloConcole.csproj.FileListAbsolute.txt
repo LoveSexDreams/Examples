@@ -1,0 +1,15 @@
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.deps.json
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.runtimeconfig.json
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.dll
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/ref/Example001_HelloConcole.dll
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/bin/Debug/net6.0/Example001_HelloConcole.pdb
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.csproj.AssemblyReference.cache
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.AssemblyInfoInputs.cache
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.AssemblyInfo.cs
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.csproj.CoreCompileInputs.cache
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.dll
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/ref/Example001_HelloConcole.dll
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.pdb
+/Users/aleksandraraguzova/Documents/Examples/Example001_HelloConcole/obj/Debug/net6.0/Example001_HelloConcole.genruntimeconfig.cache
